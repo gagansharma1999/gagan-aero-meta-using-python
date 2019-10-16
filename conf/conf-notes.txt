@@ -1,0 +1,8 @@
+Supported targets:
+    core-image-base:	minimal image for kernel support
+    hw-test-image:	minimal image + rpm packages + network tools
+
+Now type
+    bitbake <target>
+
+To build the final image
